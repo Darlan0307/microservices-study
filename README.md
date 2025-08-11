@@ -20,4 +20,4 @@
 
 ## System Design
 
-![System Design](./README.md)
+![System Design](./system-design.png)
