@@ -17,3 +17,7 @@
 - Observabilidade
 - Monitoramento
 - Deploy com Pulumi
+
+## System Design
+
+![System Design](./README.md)
